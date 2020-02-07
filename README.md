@@ -2,13 +2,9 @@
 
 
 ### Projects
-
+####[C++]
 -
 
--
-
--
-
-#### Contact
+###### Contact
 
 spyderscythe@hotmail.com
