@@ -6,21 +6,29 @@ This is a collection of things I'm working on while learning to code.
 #### C++
 
 - Placeholder
+- Placeholder
+- Placeholder
 
 #### C#
 
+- Placeholder
+- Placeholder
 - Placeholder
 
 #### Lua
 
 - Placeholder
-
+- Placeholder
+- Placeholder
 #### Unity
 
 - Placeholder
-
+- Placeholder
+- Placeholder
 #### Unreal
 
+- Placeholder
+- Placeholder
 - Placeholder
 
 ###### Contact
