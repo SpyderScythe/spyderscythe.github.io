@@ -7,11 +7,9 @@ This is a collection of things I'm working on while learning to code.
 
 - Placeholder
 
-
 #### C#
 
 - Placeholder
-
 
 #### Lua
 
@@ -23,7 +21,7 @@ This is a collection of things I'm working on while learning to code.
 
 #### Unreal
 
--
+- Placeholder
 
 ###### Contact
 
