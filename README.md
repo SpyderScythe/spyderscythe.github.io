@@ -1,7 +1,7 @@
-## Welcome to Spyder's page
+# Welcome to Spyder's page
 
 
-### Projects
+## Projects
 
 #### C++
 
@@ -9,4 +9,4 @@
 
 ###### Contact
 
-spyderscythe@hotmail.com
+<spyderscythe@hotmail.com>
